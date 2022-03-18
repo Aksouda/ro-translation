@@ -1,5 +1,5 @@
 {
-  "name": "@alheimsins/b5-result-text",
+  "name": "@aksouda/b5-result-text",
   "description": "Text for big five results score",
   "version": "4.0.0",
   "license": "MIT",
@@ -13,13 +13,13 @@
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no",
-    "url": "https://github.com/zrrrzzt"
+    "url": "https://github.com/aksouda"
   },
   "contributors": [
     {
       "name": "Jonas Enge",
       "email": "jonas.enge@gmail.com",
-      "url": "https://github.com/maccyber"
+      "url": "https://github.com/aksouda"
     }
   ],
   "main": "index.js",
@@ -41,12 +41,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alheimsins/b5-result-text.git"
+    "url": "git+https://github.com/aksouda/b5-result-text.git"
   },
   "bugs": {
-    "url": "https://github.com/alheimsins/b5-result-text/issues"
+    "url": "https://github.com/aksouda/b5-result-text/issues"
   },
-  "homepage": "https://github.com/alheimsins/b5-result-text#readme",
+  "homepage": "https://github.com/aksouda/b5-result-text#readme",
   "devDependencies": {
     "ava": "3.12.1",
     "coveralls": "3.1.0",
